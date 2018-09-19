@@ -1,0 +1,1 @@
+docker run -dit -v $HOME/bind:/root -p 3000:3000 --name Abathur python:2-slim
